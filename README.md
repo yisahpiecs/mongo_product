@@ -2,9 +2,9 @@
 
 ### 公司
 
-jxmoresec
+jx.sgcc.com.cn
 
 
 ## mongodb
 
-IP: 192.168.3.87
+IP: 192.168.30.87
